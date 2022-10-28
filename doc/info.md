@@ -4,6 +4,8 @@
 
 ### Números gerais em Portugal
 
+- ≅ 38.667 professores universitários
+- ≅ 78 523 professores de ensino secundário
 - ≅ 244 000 alunos em expliçações
 - ≅ 12 000 explicadores
 - ≅ 1000 centros de estudos (competição)
